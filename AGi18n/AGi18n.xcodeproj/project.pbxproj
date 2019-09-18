@@ -17,7 +17,7 @@
 		2285817B2332073B00EF44E6 /* UIBarItem+AGi18n.m in Sources */ = {isa = PBXBuildFile; fileRef = 2285816F2332073A00EF44E6 /* UIBarItem+AGi18n.m */; };
 		2285817C2332073B00EF44E6 /* UINavigationItem+AGi18n.m in Sources */ = {isa = PBXBuildFile; fileRef = 228581702332073A00EF44E6 /* UINavigationItem+AGi18n.m */; };
 		2285817D2332073B00EF44E6 /* UITabBarItem+AGi18n.m in Sources */ = {isa = PBXBuildFile; fileRef = 228581712332073B00EF44E6 /* UITabBarItem+AGi18n.m */; };
-		2285817E2332073B00EF44E6 /* NSObject+AGi18n.h in Headers */ = {isa = PBXBuildFile; fileRef = 228581722332073B00EF44E6 /* NSObject+AGi18n.h */; };
+		2285817E2332073B00EF44E6 /* NSObject+AGi18n.h in Headers */ = {isa = PBXBuildFile; fileRef = 228581722332073B00EF44E6 /* NSObject+AGi18n.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		2285817F2332073B00EF44E6 /* UILabel+AGi18n.m in Sources */ = {isa = PBXBuildFile; fileRef = 228581732332073B00EF44E6 /* UILabel+AGi18n.m */; };
 /* End PBXBuildFile section */
 
